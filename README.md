@@ -59,21 +59,7 @@ This public revision of the PCB electronics has a few known small errors.
 
 <br />
 
-## Buy the PRO version on Tindie
-
-| [<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/tindie_sell.png" alt="" height="60">](https://www.tindie.com/stores/aeonlabs/) | To all those not into electronics and still liked and want to own any of the listed PCB for smart devices can buy the PRO version on Tindie ready to install and use. |
-|-------------|------|
-
-<br />
-<br />
-
 **Be supportive of my dedication and work towards open hardware and buy me a cup of coffee. Links below. Above and on the side**
-
-<br />
- 
-| [![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/likeShareComment.jpg)   ![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/twitter_small.png)](https://twitter.com/AeonlabsS)  | *Don't forget to **LIKE** , **SHARE** and **subscribe** the free chat groups* and if you downloaded one of AeonLabs's PCBs consider sponsor  any open hardware project with a donation or a cup of coffee. Links on the top, right side pane and below. |
-|-------------|------|
-
 
 <br />
 <br />
@@ -94,22 +80,6 @@ This public revision of the PCB electronics has a few known small errors.
 <br />
 <br />
 
-
-## Youtube Channel
-| ![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/youtube.png) | Subscribe to my Youtube channel for PCB assembly instruction or any other related to Artificial Intelligence, Smart devices and robotics. Link to the channel [here](https://www.youtube.com/channel/UCAewCBpMRPGCyFc1ET5CHJw). My most recent video is .... |
-|-------------|------|
-
-
-<br />
-<br />
-
-________________________________________________________________________________________________________________
-
-## [Go back to main catalogue page](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)
-
-________________________________________________________________________________________________________________
-
-<br>
 
 ## Author
 
