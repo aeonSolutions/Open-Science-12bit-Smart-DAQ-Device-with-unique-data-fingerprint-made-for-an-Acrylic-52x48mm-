@@ -32,7 +32,8 @@
 <br>
 
 ### Known PCB bugs
-This public revision of the PCB electronics has a few known small errors. 
+No known bugs found.
+
 
 <br>
 
