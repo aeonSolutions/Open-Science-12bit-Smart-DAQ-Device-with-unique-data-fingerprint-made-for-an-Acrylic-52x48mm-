@@ -16,6 +16,8 @@
 # 12bit Smart DAQ Device with unique data fingerprint and a 1.69" TFT LCD made for an Acrylic 52x48mm  Enclosure
 
 This is the repository for the 12bit Smart DAQ Device with unique data fingerprint able to do experimental data upload to any data repository
+(...)
+...
 
 <br>
 
@@ -23,9 +25,7 @@ This is the repository for the 12bit Smart DAQ Device with unique data fingerpri
 
 ![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/working_green.png) Fully tested and working
 
-<br>
-
-### Known PCB bugs
+ **Known PCB bugs**
 No known bugs found.
 
 
