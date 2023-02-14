@@ -41,17 +41,13 @@ This public revision of the PCB electronics has a few known small errors.
 <img src="https://github.com/aeonSolutions/Open-Science-12bit-Smart-DAQ-unique-data-fingerprint-made-for-an-Acrylic-52x48mm-/blob/main/designs/pcb_front.png" height="450">
 
 
-<blockquote class="twitter-tweet"><p lang="zxx" dir="ltr"><a href="https://t.co/wbt51zN6JU">pic.twitter.com/wbt51zN6JU</a></p>&mdash; Aeonlabs.science (@AeonlabsS) <a href="https://twitter.com/AeonlabsS/status/1620085921738788865?ref_src=twsrc%5Etfw">January 30, 2023</a></blockquote>
+<a href="https://t.co/wbt51zN6JU"><img src="https://github.com/aeonSolutions/Open-Science-12bit-Smart-DAQ-unique-data-fingerprint-made-for-an-Acrylic-52x48mm-/blob/main/designs/twitter_video.png" height="350"></a></p>
+&mdash; Aeonlabs.science (@AeonlabsS) <a href="https://twitter.com/AeonlabsS/status/1620085921738788865?ref_src=twsrc%5Etfw">January 30, 2023</a></blockquote>
 
 </p>
 
 <br>
 
-<p align="center">
-<img src="https://github.com/aeonSolutions/AeonLabs-Indoor-Smart-Plant-Watering/blob/main/designs/pcb_front.png" height="350">
-</p>
-
-<br>
   
 ## What one additionally needs
 - [USB to UART/USB TTL firmware burner for 5V and 3.3V MCUs ](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/DIY-Maker/README.md) 
