@@ -37,13 +37,11 @@ This public revision of the PCB electronics has a few known small errors.
 <br>
 
 <p align="center">
+<img src="https://github.com/aeonSolutions/Open-Science-12bit-Smart-DAQ-unique-data-fingerprint-made-for-an-Acrylic-52x48mm-/blob/main/designs/pcb_front.png" height="350">
+</p>
 
-<img src="https://github.com/aeonSolutions/Open-Science-12bit-Smart-DAQ-unique-data-fingerprint-made-for-an-Acrylic-52x48mm-/blob/main/designs/pcb_front.png" height="450">
-
-<br>
-     
+<p>     
 <a href="https://t.co/wbt51zN6JU"><img src="https://github.com/aeonSolutions/Open-Science-12bit-Smart-DAQ-unique-data-fingerprint-made-for-an-Acrylic-52x48mm-/blob/main/designs/twitter_video.png" height="350"></a>
-
 </p>
 
 <br>
