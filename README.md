@@ -54,11 +54,24 @@ In paralell is being written a C library to expedite API integration on smart DA
 
 https://github.com/aeonSolutions/OpenScience-Dataverse-API-C-library
 
+<p align="center">
+  <a href="https://github.com/aeonSolutions/OpenScience-Dataverse-API-C-library">
+   <img width="300" src="https://github.com/aeonSolutions/openScienceResearch-Smart-DAQ-Device-able-to-Upload-Live-Experimental-Sensor-Data-to-a-Data-Repo/blob/main/dataverse_r_project.png">
+ </a>
+</p>
 
-[![](https://github.com/aeonSolutions/openScienceResearch-Smart-DAQ-Device-able-to-Upload-Live-Experimental-Sensor-Data-to-a-Data-Repo/blob/main/dataverse_r_project.png)](https://github.com/aeonSolutions/OpenScience-Dataverse-API-C-library)
+<br>
+
+**Dataverse API in another coding language**
+
+Goto dataverse.org for another coding language that best suits your coding style and needs. Currently there are client libraries for Python, Javascript, R, Java, and Julia that can be used to develop against Dataverse Software APIs
+
+https://guides.dataverse.org/en/5.12/api/client-libraries.html
 
 <br>
 <br>
+
+-----------------------------------------------------------------------------------
 
 
 **Get a Notification on every PCB update**
