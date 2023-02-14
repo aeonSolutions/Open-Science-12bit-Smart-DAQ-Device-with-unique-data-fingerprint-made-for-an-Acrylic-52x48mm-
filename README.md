@@ -15,14 +15,27 @@
 
 # 12bit Smart DAQ Device with unique data fingerprint and a 1.69" TFT LCD made for an Acrylic 52x48mm  Enclosure
 
-**The Problem**
-
- 
-
-**The Idea**
+This is the repository for the 12bit Smart DAQ Device with unique data fingerprint able to do experimental data upload to any data repository
 
 
+<br>
 
+**Status**
+
+Fully working
+
+<br>
+
+## Dataverse API C library
+
+In paralell is being written a C library to expedite API integration on smart DAQ devices or elsewhere. Follow the link to its repository:
+
+https://github.com/aeonSolutions/OpenScience-Dataverse-API-C-library
+
+
+[![](https://github.com/aeonSolutions/openScienceResearch-Smart-DAQ-Device-able-to-Upload-Live-Experimental-Sensor-Data-to-a-Data-Repo/blob/main/dataverse_r_project.png)](https://github.com/aeonSolutions/OpenScience-Dataverse-API-C-library)
+
+<br>
 <br>
 
 ### Status
