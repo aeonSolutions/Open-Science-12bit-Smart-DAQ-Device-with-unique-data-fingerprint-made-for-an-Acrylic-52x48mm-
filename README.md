@@ -17,25 +17,6 @@
 
 This is the repository for the 12bit Smart DAQ Device with unique data fingerprint able to do experimental data upload to any data repository
 
-
-<br>
-
-**Status**
-
-Fully working
-
-<br>
-
-## Dataverse API C library
-
-In paralell is being written a C library to expedite API integration on smart DAQ devices or elsewhere. Follow the link to its repository:
-
-https://github.com/aeonSolutions/OpenScience-Dataverse-API-C-library
-
-
-[![](https://github.com/aeonSolutions/openScienceResearch-Smart-DAQ-Device-able-to-Upload-Live-Experimental-Sensor-Data-to-a-Data-Repo/blob/main/dataverse_r_project.png)](https://github.com/aeonSolutions/OpenScience-Dataverse-API-C-library)
-
-<br>
 <br>
 
 ### Status
@@ -63,8 +44,22 @@ No known bugs found.
   
 ## What one additionally needs
 - [USB to UART/USB TTL firmware burner for 5V and 3.3V MCUs ](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/DIY-Maker/README.md) 
+
 <br />
 <br />
+
+## Dataverse API C library
+
+In paralell is being written a C library to expedite API integration on smart DAQ devices or elsewhere. Follow the link to its repository:
+
+https://github.com/aeonSolutions/OpenScience-Dataverse-API-C-library
+
+
+[![](https://github.com/aeonSolutions/openScienceResearch-Smart-DAQ-Device-able-to-Upload-Live-Experimental-Sensor-Data-to-a-Data-Repo/blob/main/dataverse_r_project.png)](https://github.com/aeonSolutions/OpenScience-Dataverse-API-C-library)
+
+<br>
+<br>
+
 
 **Get a Notification on every PCB update**
 
