@@ -22,9 +22,67 @@
 
 # 12bit Smart DAQ Device with unique data fingerprint and a 1.69" TFT LCD made for an Acrylic 52x48mm  Enclosure
 
-This is the repository for the 12bit Smart DAQ Device with unique data fingerprint able to do experimental data upload to any data repository
-(...)
-...
+This is the repository for the 12bit Smart DAQ Device with unique data fingerprint able to do experimental data upload to any data repository. For detailed information head to the main project Wiki [here](https://github.com/aeonSolutions/openScience-Smart-DAQ-to-Upload-Live-Experimental-Data-to-a-Data-Repository/wiki). Thank you.
+
+<br>
+
+### 12bit Smart DAQ  Hardware Specifications
+The hardware specifications for the 12bit PCB with dimensions of 52x46mm are the following:
+
+- QFN 56 Dual Xtensa LX7 Core Processors running up to 240MHz
+  -	RISC V ultra-low power co-processor
+  - 512Kb RAM (PSRAM max 1 Gb);
+  - 16Mb SOIC 8 NOR SPI Flash Memory (max 1Gb);
+  - 2.4GHz ISM wireless connectivity;
+  - Up to 118 12bit ADC Multiplexed DAQ channels;
+
+<br>
+
+- Onboard Storage:
+  - 2x SPI Flash WSON-8 Chips for local storage upwards of 4Gbytes. 
+
+<br>
+
+- Authentication & Security:
+  - SOIC-8 ATSHA204A SHA-256 high-security hardware authentication IC for secure and unique experimental data exchange
+
+<br>
+
+- Power management
+  - DFN-6 AUR9718/ST1S09 high efficiency step-down 3.3V 1.5A DC converter;
+  - CN3065 4.2V Lipo Battery Management System
+  - USB-C connection for 5.0V 1.0A power supply from any power charger found on smartphones or tablets.
+  - JST SH 2 pin 1.0mm for specific power supply applications (3.3V to 5.0V 1.0A DC)    
+
+<br>
+
+- Onboard sensors:
+  - DFN-8 AHT20; temperature sensor with a precision of 0.1 C;
+  - DFN-8 AHT20 humidity sensor;
+  - LGA-14 LSM6DS3 a 6-axis accelerometer and gyroscope;
+  - TEMT6000 Luminosity Sensor;
+  - SOT 23-3 reference voltage sensor;
+
+
+<br>
+
+- External connectivity for up to 118 sensors 12 to 16bit with onboard voltage reference analyzer with temperature compensation and automatic ADC calibration:
+  -  1x I2C pin terminal connector (4 pin)
+  -  1x ADC 12 to 16bit (with oversampling & digitization) digital terminal connector (3 pin)
+  -  1x ADC Ohmmeter connection with 12 to 16bit (with oversampling & digitization) with manual scale selection via dip switch
+ 
+<br>
+
+- Display
+  - 1.69" TFT LCD Display with a resolution of 320x280 px 
+
+<br>
+
+- Enclosure
+
+This particular smart DAQ was designed to fit a well-known ABS enclosure commercially available on the internet. For instance [here](https://s.click.aliexpress.com/e/_DCKIAm1) on AliExpress. 
+
+<br>
 
 <br>
 
