@@ -108,12 +108,12 @@ This particular smart DAQ was designed to fit a well-known ABS enclosure commerc
 
 <br>
 
-### Status
+### ![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/working_green.png) Status
 
-![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/working_green.png) Fully tested and working
+Fully tested and working
 
  **Known PCB bugs**
-No known bugs found.
+UART SH connector GND pin requires conencton to GND on the PCB (easy fix. as is exactly nect to the GND pin) 
 
 
 
