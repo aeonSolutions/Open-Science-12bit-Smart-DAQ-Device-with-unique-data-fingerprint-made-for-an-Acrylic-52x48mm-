@@ -112,11 +112,12 @@ This particular smart DAQ was designed to fit a well-known ABS enclosure commerc
 
 Fully tested and working
 
- **Known PCB bugs**
+ **Known PCB bugs [April 04-2023 pcb revision] :**
+ 
+UART SH connector GND pin requires connection to GND on the PCB (easy fix. as it is exactly next to the GND pin). This only affects the onboard firmware upload UART port. The OEM firmware available here is able to do OTA updates using WIFI.   
 
-UART SH connector GND pin requires connection to GND on the PCB (easy fix. as it is exactly next to the GND pin) 
 
-
+<br>
 
 <p align="center">
 <img src="https://github.com/aeonSolutions/Open-Science-12bit-Smart-DAQ-unique-data-fingerprint-made-for-an-Acrylic-52x48mm-/blob/main/designs/pcb_front.png" height="350">
