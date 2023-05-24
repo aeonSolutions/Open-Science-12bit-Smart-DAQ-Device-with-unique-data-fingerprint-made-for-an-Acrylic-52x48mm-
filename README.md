@@ -21,6 +21,13 @@ This is the repository for the 12bit Smart DAQ Device with unique data fingerpri
 
 <br>
 
+<p align="center">
+<img src="https://github.com/aeonSolutions/Open-Science-12bit-Smart-DAQ-unique-data-fingerprint-made-for-an-Acrylic-52x48mm-/blob/main/media/image_2023-05-24_100404779.png
+" height="350">
+</p>
+
+<br>
+
 ### Status
 
 ![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/working_green.png) Fully tested and working
@@ -29,7 +36,9 @@ This is the repository for the 12bit Smart DAQ Device with unique data fingerpri
 No known bugs found.
 
 
-<br>
+
+
+
 
 <p align="center">
 <img src="https://github.com/aeonSolutions/Open-Science-12bit-Smart-DAQ-unique-data-fingerprint-made-for-an-Acrylic-52x48mm-/blob/main/designs/pcb_front.png" height="350">
