@@ -56,6 +56,15 @@ The hardware specifications for the 12bit PCB with dimensions of 52x46mm are the
 
 <br>
 
+- Connectivity
+  - 2.4GHz WIFI
+  - Bluetooth & BLE
+  - USB-C serial communication
+  - JTAG debugger connector
+  - Serial UART connector
+  
+<br>
+
 - Onboard sensors:
   - DFN-8 AHT20; temperature sensor with a precision of 0.1 C;
   - DFN-8 AHT20 humidity sensor;
