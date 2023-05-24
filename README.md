@@ -114,8 +114,7 @@ Fully tested and working
 
  **Known PCB bugs [April 04-2023 pcb revision] :**
  
-UART SH connector GND pin requires connection to GND on the PCB (easy fix. as it is exactly next to the GND pin). This only affects the onboard firmware upload UART port. The OEM firmware available here is able to do OTA updates using WIFI.   
-
+UART SH connector GND pin requires connection to GND on the PCB (easy fix. as it is exactly next to the GND pin). This only affects the onboard firmware upload UART port (the OEM firmware available here is able to do OTA updates using WIFI) .   
 
 <br>
 
