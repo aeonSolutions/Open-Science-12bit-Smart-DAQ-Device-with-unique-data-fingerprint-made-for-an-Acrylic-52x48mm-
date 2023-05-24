@@ -113,10 +113,8 @@ This particular smart DAQ was designed to fit a well-known ABS enclosure commerc
 Fully tested and working
 
  **Known PCB bugs**
-UART SH connector GND pin requires conencton to GND on the PCB (easy fix. as is exactly nect to the GND pin) 
 
-
-
+UART SH connector GND pin requires connection to GND on the PCB (easy fix. as it is exactly next to the GND pin) 
 
 
 
